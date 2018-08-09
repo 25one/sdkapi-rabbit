@@ -20,7 +20,7 @@ SdkBonusApi - sdk-class for loyalty_api_v106 from funidst.org + RABBIT-queue
 
 //...
 
-/*
+/**
 require_once 'vendor/autoload.php';
 
 use SdkBonusApi\SdkBonusApi;
@@ -31,4 +31,4 @@ $arr['numberapi'] = '1';
 $arr['postparamstring'] = 'TID=777/IDUser=55'; 
 
 $bonusapi->requestApi($arr);
-*/
+**/
