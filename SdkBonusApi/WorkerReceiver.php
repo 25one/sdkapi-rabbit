@@ -1,7 +1,5 @@
 <?php
 
-//namespace SdkBonusApi\RabbitWrapper;
-
 namespace SdkBonusApi;
 
 require_once 'vendor/autoload.php';
