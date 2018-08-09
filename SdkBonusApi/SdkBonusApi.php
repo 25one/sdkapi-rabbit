@@ -5,7 +5,7 @@ namespace SdkBonusApi;
 require_once 'vendor/autoload.php';
 
 use GuzzleHttp\Client;
-use WorkerSender;
+use SdkBonusApi\WorkerSender;
 
 class SdkBonusApi
 {
